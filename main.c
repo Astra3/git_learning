@@ -3,4 +3,5 @@
 int main() {
     printf("Hello World!\n");
     printf("bububu!\n");
+    printf("Ahoj, tady Darin.\n");
 }
