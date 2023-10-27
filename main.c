@@ -2,6 +2,6 @@
 
 int main() {
     printf("Hello World!\n");
-    printf("bububu!\n");
+    printf("Mám rád jablíčka!\n");
     printf("Ahoj, tady Darin.\n");
 }
